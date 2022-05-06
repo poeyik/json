@@ -1,10 +1,11 @@
 {
-	"eeg": [
-		{
-			"label": 1,
-			"alpha1": 123,
-			"delta": 234,
-			"theta": 345
-		}
-	]
+  "brainwave": {
+    "label": 0,
+    "alpha1": 0,
+    "delta": 0,
+    "theta": 0
+  },
+  "judge": {
+    "sleep": 0
+  }
 }
