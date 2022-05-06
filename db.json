@@ -1,6 +1,10 @@
 {
-	"label": 0,
-	"alpha1": 123,
-	"delta": 234,
-	"theta": 345
+	"eeg": [
+		{
+			"label": 1,
+			"alpha1": 123,
+			"delta": 234,
+			"theta": 345
+		}
+	]
 }
